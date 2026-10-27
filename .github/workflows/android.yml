@@ -34,4 +34,4 @@ jobs:
           name: app
           path: app/build/outputs/apk/debug/app-debug.apk
       - name: Display success message
-        run: echo "Android CI workflow executed successfully in exam" 
+        run: echo "Android CI workflow executed successfully in " 
